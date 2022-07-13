@@ -15,7 +15,4 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 <h3>Can anyone solve the problems?</h3>
 <p>The problems range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.</p>
 <br>
-<h3>What next?</h3>
-<p>In order to track your progress it is necessary to setup an account and have Cookies enabled.
-</p><div>If you already have an account, then <a href="sign_in">Sign In</a>. Otherwise, please <a href="register">Register</a> – it's completely free!</div><p></p>
-<p>However, as the problems are challenging, then you may wish to view the <a href="archives">Problems</a> before registering.</p><br><br><p id="tagline">"Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."</p></div></div>
+<strong><p id="tagline">"Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."</p></strong>
